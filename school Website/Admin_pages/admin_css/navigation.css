@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.navigation {
+  width: 100%;
+  background-color: blueviolet;
+  display: flex;
+}
+ul {
+  width: 100%, auto;
+  display: flex;
+  margin: 20px;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: black;
+  margin: 30px;
+  font-size: 20px;
+}

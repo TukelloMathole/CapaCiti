@@ -1,0 +1,10 @@
+<?php
+include 'inc/header.php'
+?>
+
+
+<h1>test</h1>
+
+<?php
+include 'inc/footer.php'
+?>

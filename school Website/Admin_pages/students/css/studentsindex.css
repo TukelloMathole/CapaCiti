@@ -1,0 +1,43 @@
+.students_section{
+    min-height: 60vh;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: #395B64;
+}
+
+.boxes{
+    width: 200px;
+    height: 200px;
+    background-color: #144272;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+i{
+    font-size: 80px;
+}
+
+/* weather container css */
+
+*  
+    { 
+    margin: 0; 
+    padding: 0; 
+    border: 0; 
+}
+
+#DisplayWeather{
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: monospace;
+    height: 200px;
+    text-align: center;
+}
+
+
+

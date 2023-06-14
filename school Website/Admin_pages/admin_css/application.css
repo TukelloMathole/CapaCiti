@@ -1,0 +1,18 @@
+.app-container table {
+  width: 100%;
+}
+.app-container td {
+  border: 1px solid black;
+}
+.app-container td {
+  font-size: 20px;
+  padding: 10px;
+}
+
+.app-container input {
+  padding: 10px;
+  background-color: steelblue;
+  border-radius: 5px;
+  border: none;
+  font-size: 20px;
+}

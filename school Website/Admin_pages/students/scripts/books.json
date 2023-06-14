@@ -1,0 +1,62 @@
+[
+    {
+        "title": "Agriculture",
+        "grade": 12,
+        "booklink": "Gr12-Agricultural-Science-Study-Guide_LR.pdf" 
+    },
+    {
+        "title": "math",
+        "grade": 12,
+        "booklink": "Gr12_Maths_Learner_Eng.pdf" 
+    },
+    {
+        "title": "math",
+        "grade": 12,
+        "booklink": "Gr12_PhysicalSciences_Learner_Eng.pdf" 
+    },
+    {
+        "title": "business studies",
+        "grade": 12,
+        "booklink": "Gr12-Business-Studies-Study-Guide_LR.pdf" 
+    },
+    {
+        "title": "Computer application technology",
+        "grade": 12,
+        "booklink": "Gr12-CAT-TG-SG_LR.pdf" 
+    },
+    {
+        "title": "economics",
+        "grade": 12,
+        "booklink": "Gr12-Economics-studyguide_LR.pdf" 
+    },
+    {
+        "title": "Life-Sciences",
+        "grade": 12,
+        "booklink": "Gr12-Life-Sciences-TG-Study-Guide_LR.pdf" 
+    },
+    {
+        "title": "History-Study",
+        "grade": 12,
+        "booklink": "Gr12-History-Study-Guide_LR.pdf" 
+    },
+    {
+        "title": "Mathematical-Literacy",
+        "grade": 12,
+        "booklink": "Gr12-Mathematical-Literacy-Study-Guide_LR.pdf" 
+    },
+    {
+        "title": "Sepedi-GRADE-12",
+        "grade": 12,
+        "booklink": "Gr12-Sepedi-GRADE-12-STUDY-GUIDE_LR.pdf" 
+    },
+    {
+        "title": "Tourism",
+        "grade": 12,
+        "booklink": "Gr12-Tourism-Study-Guide_LR.pdf" 
+    },
+    {
+        "title": "Life Sciences",
+        "grade": 12,
+        "booklink": "Life Sciences Grade 12 Textbook.pdf" 
+    }
+]
