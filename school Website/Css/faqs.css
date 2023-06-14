@@ -1,0 +1,69 @@
+.FAQcontainer{
+    min-height: 30rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.maincontainer{
+    position: relative;
+    width: 250px;
+    height: 320px;
+    margin: 20px;
+    
+}
+.theCard{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: all 1.5s ease;
+    border-radius: 20px;
+    
+}
+
+.theCard:hover{
+    transform: rotateY(180deg);
+    box-shadow: 10px 5px 10px 5px  rgba(126, 141, 156, 0.685);
+}
+
+.theFront{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    background-color: bisque;
+    color: #333;
+    padding: 20px;
+    border-radius: 20px; 
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+
+.theBack{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    background-color: lightskyblue;
+    transform: rotateY(180deg);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+    padding: 20px;
+    border-radius: 20px;
+}
+
+
+@media (min-width: 625px) {
+    .FAQcontainer{
+        min-height: 30rem;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+}
